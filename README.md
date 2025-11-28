@@ -39,5 +39,5 @@
 </div>
 
 ##
-![Snake animation](https://github.com/seuusuario/jairo1rj/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jairo1rj/jairo1rj/blob/output/github-contribution-grid-snake.svg)
 
